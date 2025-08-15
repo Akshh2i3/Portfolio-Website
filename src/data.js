@@ -9,26 +9,6 @@ const data = {
   majorSkill2: 'Problem Solver',
   majorProject: [
     {
-      name: 'Amazonia',
-      projDescription:
-        ' The Amazon Clone project is a full-fledged e-commerce platform modeled after Amazon.in. It features Next.js for front-end development, offering structure-based routing and server-side rendering for optimized performance. The backend is built with Node.js, while Superbase handles data storage and authentication. Stripe is integrated for seamless and secure payment processing. Key features include JWT-based authentication, robust search functionality, real data simulation, smooth animations, easy add-to-cart and checkout processes, and hassle-free transactions.',
-      techstackUsed: [
-        'Next.js',
-        'Node.js',
-        'Express.js',
-        'JWT',
-        'Superbase',
-        'Tailwind CSS',
-        'Axios',
-        'Cloudinary',
-        'Stripe'
-      ],
-      githubLink: 'https://github.com/Akshh2i3/amazon-clone',
-      hostedLink: 'https://amazon-clone-iota-eosin.vercel.app',
-      imageLink:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/amazonProject.png?alt=media&token=4f541601-b82d-4c43-944b-0628843cd267',
-    },
-    {
       name: 'Asset Management System',
       projDescription:
         'The Asset Management System is designed to handle both movable and non-movable assets with distinct approaches. Movable assets are tracked in real-time using GPS, while machine learning models are employed to predict maintenance needs and fuel efficiency. The system also provides detailed allocation information, enabling efficient management, monitoring, and optimization of resources. By integrating real-time tracking and predictive analytics, this system ensures timely interventions and enhances overall asset utilization.',
@@ -46,6 +26,26 @@ const data = {
       hostedLink: 'https://infodore.vercel.app',
       imageLink:
         'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/InfoDoreProject.png?alt=media&token=59019226-b346-40e6-9ff1-513d11c596df',
+    },
+    {
+      name: 'Amazonia',
+      projDescription:
+        ' The Amazon Clone project is a full-fledged e-commerce platform modeled after Amazon.in. It features Next.js for front-end development, offering structure-based routing and server-side rendering for optimized performance. The backend is built with Node.js, while Superbase handles data storage and authentication. Stripe is integrated for seamless and secure payment processing. Key features include JWT-based authentication, robust search functionality, real data simulation, smooth animations, easy add-to-cart and checkout processes, and hassle-free transactions.',
+      techstackUsed: [
+        'Next.js',
+        'Node.js',
+        'Express.js',
+        'JWT',
+        'Superbase',
+        'Tailwind CSS',
+        'Axios',
+        'Cloudinary',
+        'Stripe'
+      ],
+      githubLink: 'https://github.com/Akshh2i3/amazon-clone',
+      hostedLink: 'https://amazon-clone-jngx.vercel.app',
+      imageLink:
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/amazonProject.png?alt=media&token=4f541601-b82d-4c43-944b-0628843cd267',
     },
     {
       name: 'Xcrypto Exchange',
@@ -138,10 +138,10 @@ const data = {
   instituteLogo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/medicapslogo.jpeg?alt=media&token=061a0db4-8bec-481c-b732-77392ee658ec',
   experience: [
     {
-      heading: 'Google Cloud Community Day 2024',
-      type: 'Event',
-      duration: 'August 2024',
-      companyLogo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/GDGlogo.png?alt=media&token=4f05808b-b609-4ad2-92f4-d6d53b55196f',
+      heading: 'FinacPlus',
+      type: 'SDE-1',
+      duration: 'April 2025 - Present',
+      companyLogo: 'https://firebasestorage.googleapis.com/v0/b/portfolio-website-ac157.appspot.com/o/FinacPlusLogo.jpeg?alt=media&token=e7f32539-7eac-4ebc-b665-399c2534bd2b',
       lowHeading: [],
     },
     {
